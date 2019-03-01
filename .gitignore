@@ -1,0 +1,9 @@
+.DS_Store
+NN/
+Plots/
+Predictions/
+Resources/
+Wifi_Tableau.twb
+pycharm_project/
+variables.spydata
+wifi_repository/
